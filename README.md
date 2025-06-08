@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Stack&nbsp;&•&nbsp;Outils
+<p align="center">### 🧰 Stack&nbsp;&•&nbsp;Outils</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>

@@ -1,6 +1,6 @@
 <!-- bannière (light / dark) -->
 <p align="center">
-  <img src="https://i.postimg.cc/qvPDQBNW/ezgif-369487a389732f.gif" alt="Banner"/>
+  <img src="https://i.postimg.cc/d0kpQn1C/ezgif-4b81a775f75e0c.gif" alt="Banner"/>
 </p>
 
 <h1 align="center">Salut, moi c’est indeciss !&nbsp;👋</h1>

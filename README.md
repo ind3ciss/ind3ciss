@@ -1,7 +1,6 @@
 <!-- bannière (light / dark) -->
 <p align="center">
-  <img src="https://i.postimg.cc/sxzRL9vd/animesher-com-gif-anime-scenery-water-1449984.gif" alt="Banner"/>
-  <img src="banner-dark.png#gh-dark-mode-only" alt="Banner"/>
+  <img src="https://i.postimg.cc/qvPDQBNW/ezgif-369487a389732f.gif" alt="Banner"/>
 </p>
 
 <h1 align="center">Salut, moi c’est indeciss !&nbsp;👋</h1>

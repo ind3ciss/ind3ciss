@@ -4,7 +4,7 @@
   <img src="banner-dark.png#gh-dark-mode-only" alt="Banner"/>
 </p>
 
-<h1 align="center">Salut, moi c’est Alice&nbsp;👋</h1>
+<h1 align="center">Salut, moi c’est indeciss !&nbsp;👋</h1>
 
 <p align="center">
   <a href="[https://linkedin.com/in/a](https://www.linkedin.com/in/phil%C3%A9mon-doise-7636b8348/)">LinkedIn</a> •

@@ -41,6 +41,8 @@
 ### 📊 Stats GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ind3ciss&show_icons=true&hide=issues&theme=default" alt="GitHub stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind3ciss&layout=compact&theme=default" alt="Top langs"/>
 </p>
 

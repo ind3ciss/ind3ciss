@@ -21,6 +21,8 @@
 - 🛠️ J’utilise aussi **MySQL** pour la persistance et VS Code comme IDE principal.  
 - 🚴‍♂️ Quand je ne code pas : vélo et parties interminables de *Satisfactory* !
 
+---
+
 ### 🧰 Stack&nbsp;&•&nbsp;Outils
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>

@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- bannière (light / dark) -->
+<p align="center">
+  <img src="banner-light.png#gh-light-mode-only" alt="Banner"/>
+  <img src="banner-dark.png#gh-dark-mode-only" alt="Banner"/>
+</p>
 
-<!--
-**ind3ciss/ind3ciss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salut, moi c’est Alice&nbsp;👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="[https://linkedin.com/in/a](https://www.linkedin.com/in/phil%C3%A9mon-doise-7636b8348/)">LinkedIn</a> •
+  <a href="mailto:doisephilemon.pro@gmail.com">Contact</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos
+- 🧑‍💻 Bachelor Administrateur Systèmes et Réseaux 1ère Année 
+- 💡 Je m'amuse à développer un grand panel de bots Discord et d'outils en JS.

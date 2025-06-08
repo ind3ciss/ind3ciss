@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/phil%C3%A9mon-doise-7636b8348/">LinkedIn</a> •
   <a href="mailto:doisephilemon.pro@gmail.com">E-mail</a> •
   <!-- Remplace le # par ton lien d’invite -->
-  <a href="#">Serveur&nbsp;Discord</a>
+  <a href="https://discord.gg/beachbots">Serveur&nbsp;Discord</a>
 </p>
 
 ---
@@ -42,18 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indeciss&layout=compact&theme=default" alt="Top langs"/>
 </p>
 
-### ⏱️ Dernière semaine de code
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ### 📫 Me contacter
 - **LinkedIn** : [profil](https://www.linkedin.com/in/phil%C3%A9mon-doise-7636b8348/)  
-- **E-mail** : doisephilemon.pro@gmail.com  
-- **Discord** : *lien d’invite à ajouter*  
-
----
-
-<sub>💡 Ce profil est mis à jour automatiquement grâce aux cartes GitHub Readme Stats et à un
-workflow WakaTime. N’hésite pas à passer faire un coucou !</sub>
+- **E-mail** : [doisephilemon.pro@gmail.com](mailto:doisephilemon.pro@gmail.com)
+- **Discord** : [BeachBots](https://discord.gg/beachbots)  

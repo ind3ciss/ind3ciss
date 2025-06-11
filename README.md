@@ -6,7 +6,6 @@
 <h1 align="center">Salut, moi c’est indeciss !&nbsp;👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/phil%C3%A9mon-doise-7636b8348/">LinkedIn</a> •
   <a href="mailto:doisephilemon.pro@gmail.com">E-mail</a> •
   <!-- Remplace le # par ton lien d’invite -->
   <a href="https://discord.gg/beachbots">Serveur&nbsp;Discord</a>
